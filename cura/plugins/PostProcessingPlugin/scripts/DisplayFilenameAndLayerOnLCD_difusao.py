@@ -1,7 +1,7 @@
 # Cura PostProcessingPlugin
 # Author:   Amanda de Castilho
 # Date:     August 28, 2018
-# Modified: November 16, 2018 by Joshua Pope-Lewis
+# Modified: March 30, 2020 by difusao@gmail.com
 
 # Description:  This plugin shows custom messages about your print on the Status bar...
 #               Please look at the 3 options
