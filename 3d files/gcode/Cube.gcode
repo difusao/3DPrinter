@@ -9,7 +9,7 @@
 ;MAXY:139.85
 ;MAXZ:20
 ;POSTPROCESSED
-;Generated with Cura_SteamEngine 4.4.1
+;Generated with Cura_SteamEngine 4.5.0
 M104 S190
 M105
 M109 S190
@@ -22904,9 +22904,9 @@ M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
 ;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = My Profiles -
-;SETTING_3  0.3mm - Action Figures\\ndefinition = custom\\n\\n[metadata]\\ntype 
-;SETTING_3 = quality_changes\\nquality_type = not_supported\\nposition = 0\\nset
-;SETTING_3 ting_version = 10\\nintent_category = default\\n\\n[values]\\nbottom_
+;SETTING_3  0.3mm - Action Figures\\ndefinition = custom\\n\\n[metadata]\\ninten
+;SETTING_3 t_category = default\\nposition = 0\\nquality_type = not_supported\\n
+;SETTING_3 setting_version = 11\\ntype = quality_changes\\n\\n[values]\\nbottom_
 ;SETTING_3 layers = =999999 if infill_sparse_density == 100 else math.ceil(round
 ;SETTING_3 (bottom_thickness / resolveOrValue('layer_height'), 4))\\nbrim_line_c
 ;SETTING_3 ount = 18\\ngradual_infill_steps = 1\\ninfill_sparse_density = 20\\ni
@@ -22923,33 +22923,33 @@ M104 S0
 ;SETTING_3 ozzle_size / 2\\nwall_thickness = 0.8\\nzig_zaggify_infill = =infill_
 ;SETTING_3 pattern == 'cross' or infill_pattern == 'cross_3d'\\n\\n", "[general]
 ;SETTING_3 \\nversion = 4\\nname = My Profiles - 0.3mm - Action Figures\\ndefini
-;SETTING_3 tion = fdmprinter\\n\\n[metadata]\\ntype = quality_changes\\nquality_
-;SETTING_3 type = not_supported\\nposition = 1\\nsetting_version = 10\\nintent_c
-;SETTING_3 ategory = default\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nna
+;SETTING_3 tion = fdmprinter\\n\\n[metadata]\\nintent_category = default\\nposit
+;SETTING_3 ion = 1\\nquality_type = not_supported\\nsetting_version = 11\\ntype 
+;SETTING_3 = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nna
 ;SETTING_3 me = My Profiles - 0.3mm - Action Figures\\ndefinition = fdmprinter\\
-;SETTING_3 n\\n[metadata]\\ntype = quality_changes\\nquality_type = not_supporte
-;SETTING_3 d\\nposition = 2\\nsetting_version = 10\\nintent_category = default\\
+;SETTING_3 n\\n[metadata]\\nintent_category = default\\nposition = 2\\nquality_t
+;SETTING_3 ype = not_supported\\nsetting_version = 11\\ntype = quality_changes\\
 ;SETTING_3 n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname = My Profiles - 
-;SETTING_3 0.3mm - Action Figures\\ndefinition = fdmprinter\\n\\n[metadata]\\nty
-;SETTING_3 pe = quality_changes\\nquality_type = not_supported\\nposition = 3\\n
-;SETTING_3 setting_version = 10\\nintent_category = default\\n\\n[values]\\n\\n"
+;SETTING_3 0.3mm - Action Figures\\ndefinition = fdmprinter\\n\\n[metadata]\\nin
+;SETTING_3 tent_category = default\\nposition = 3\\nquality_type = not_supported
+;SETTING_3 \\nsetting_version = 11\\ntype = quality_changes\\n\\n[values]\\n\\n"
 ;SETTING_3 , "[general]\\nversion = 4\\nname = My Profiles - 0.3mm - Action Figu
-;SETTING_3 res\\ndefinition = fdmprinter\\n\\n[metadata]\\ntype = quality_change
-;SETTING_3 s\\nquality_type = not_supported\\nposition = 4\\nsetting_version = 1
-;SETTING_3 0\\nintent_category = default\\n\\n[values]\\n\\n", "[general]\\nvers
+;SETTING_3 res\\ndefinition = fdmprinter\\n\\n[metadata]\\nintent_category = def
+;SETTING_3 ault\\nposition = 4\\nquality_type = not_supported\\nsetting_version 
+;SETTING_3 = 11\\ntype = quality_changes\\n\\n[values]\\n\\n", "[general]\\nvers
 ;SETTING_3 ion = 4\\nname = My Profiles - 0.3mm - Action Figures\\ndefinition = 
-;SETTING_3 fdmprinter\\n\\n[metadata]\\ntype = quality_changes\\nquality_type = 
-;SETTING_3 not_supported\\nposition = 5\\nsetting_version = 10\\nintent_category
-;SETTING_3  = default\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname = My
+;SETTING_3 fdmprinter\\n\\n[metadata]\\nintent_category = default\\nposition = 5
+;SETTING_3 \\nquality_type = not_supported\\nsetting_version = 11\\ntype = quali
+;SETTING_3 ty_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname = My
 ;SETTING_3  Profiles - 0.3mm - Action Figures\\ndefinition = fdmprinter\\n\\n[me
-;SETTING_3 tadata]\\ntype = quality_changes\\nquality_type = not_supported\\npos
-;SETTING_3 ition = 6\\nsetting_version = 10\\nintent_category = default\\n\\n[va
+;SETTING_3 tadata]\\nintent_category = default\\nposition = 6\\nquality_type = n
+;SETTING_3 ot_supported\\nsetting_version = 11\\ntype = quality_changes\\n\\n[va
 ;SETTING_3 lues]\\n\\n", "[general]\\nversion = 4\\nname = My Profiles - 0.3mm -
-;SETTING_3  Action Figures\\ndefinition = fdmprinter\\n\\n[metadata]\\ntype = qu
-;SETTING_3 ality_changes\\nquality_type = not_supported\\nposition = 7\\nsetting
-;SETTING_3 _version = 10\\nintent_category = default\\n\\n[values]\\n\\n"], "glo
+;SETTING_3  Action Figures\\ndefinition = fdmprinter\\n\\n[metadata]\\nintent_ca
+;SETTING_3 tegory = default\\nposition = 7\\nquality_type = not_supported\\nsett
+;SETTING_3 ing_version = 11\\ntype = quality_changes\\n\\n[values]\\n\\n"], "glo
 ;SETTING_3 bal_quality": "[general]\\nversion = 4\\nname = My Profiles - 0.3mm -
-;SETTING_3  Action Figures\\ndefinition = custom\\n\\n[metadata]\\ntype = qualit
-;SETTING_3 y_changes\\nquality_type = not_supported\\nsetting_version = 10\\n\\n
+;SETTING_3  Action Figures\\ndefinition = custom\\n\\n[metadata]\\nquality_type 
+;SETTING_3 = not_supported\\nsetting_version = 11\\ntype = quality_changes\\n\\n
 ;SETTING_3 [values]\\nadhesion_type = none\\nlayer_height = 0.1\\nlayer_height_0
 ;SETTING_3  = 0.2\\nsupport_enable = False\\n\\n"}
