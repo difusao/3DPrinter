@@ -67,12 +67,12 @@ class DisplayFilenameAndLayerOnLCD_ByDifusao(Script):
 
         if not self.getSettingValueByKey("scroll"):
             if self.getSettingValueByKey("maxlayer"):
-                lcd_text = "M117 Camada "
+                lcd_text = "M117 L. "
             else:
-                lcd_text = "M117 Imprimindo camada "
+                lcd_text = "M117 L. "
         else:
             #lcd_text = "M117 Printing " + name + " - Layer "
-            lcd_text = "M117 " + name + " Camada "
+            lcd_text = "M117 " + name + " L. "
             
         i = self.getSettingValueByKey("startNum")
         
